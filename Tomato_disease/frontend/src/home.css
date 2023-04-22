@@ -1,0 +1,29 @@
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.card {
+    display: block;
+    overflow: hidden;
+    border: none;
+    background-color: #fff;
+    margin-bottom: 15px;
+    height: auto;
+    max-height: 58px;
+    transition: max-height .3s cubic-bezier(0,1.05,0,1),padding-bottom .2s ease-in-out;
+    color: #676767;
+    box-shadow: 2px 2px 2px rgb(0 0 0 / 20%);
+    border-radius: 5px;
+}
+
+@media only screen and (min-width: 340px){
+    .card p {
+        text-align: justify; 
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

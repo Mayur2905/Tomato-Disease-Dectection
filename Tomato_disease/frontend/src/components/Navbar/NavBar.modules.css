@@ -1,0 +1,101 @@
+.nv_main{
+  font-family: "Times New Roman", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 75px;
+  background-color: #00828c;
+  color: white;
+  z-index: 2;
+}
+.Logo {
+  font-size: 30px;
+}
+.Logo {
+  clip-path: circle(50% at 50% 50%);
+}
+.navlink {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  widows: 75%;
+}
+
+.Home,
+.About,
+.Login,
+.SignUp {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+li button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  margin: 0 10px;
+}
+.mobilElmentIcon {
+  display: none;
+}
+
+@media screen and (max-width: 550px) {
+  .Logo {
+    display: flex;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+  }
+  .navlink {
+    display: none;
+  }
+  .navlinkMobile {
+    position: absolute;
+    display: block;
+    list-style: none;
+    background-color: #005469;
+    left: 0;
+    top: 75px;
+    transition: all 0.5s ease-out;
+    width: 100%;
+  }
+  .Home,
+  .About,
+  .Login,
+  .SignUp {
+    color: white;
+    text-align: center;
+    padding: 32px;
+    width: 100%;
+    transition: all 05s ease;
+  }
+  .SignUp {
+    border: none;
+  }
+  .mobilElmentIcon {
+    display: inline;
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    background-color: #00828c;
+    border: none;
+    outline: none;
+    top: 15px;
+    right: 25px;
+  }
+}

@@ -1,0 +1,455 @@
+[
+  {
+    "id": 0,
+    "name": "Tomato Bacterial spot",
+    "symptoms": "Symptoms can be seen on the foliage, stems, and fruits of tomatoes. Initially small yellow-green lesions appear on young leaves for bacterial spot, whilst bacterial speck causes black spots with a narrow yellow halo. They are usually more numerous on leaf margins or tips, which may appear deformed and twisted. In severe cases, the spots of bacterial speck may coalesce or overlap, resulting in larger and irregular lesions. Bacterial spot lesions can enlarge from 0.25 cm to 0.5 cm and become tan to brownish-red, which will eventually look like shot holes when the center dries up. Bacterial spot produces similar lesion of fruits as it does on the leaves and eventually roughen, becoming brown and scabbed. Bacterial speck causes tiny, slightly raised black specks. It is difficult to distinguish between these two diseases at an early stage.",
+    "causes": "Bacterial Spot and Speck are caused by several species of bacteria of the genus Xanthomonas, and Pseudomonas syringae pv. tomato. Bacterial spot occurs worldwide and is one of the most devastating diseases on tomatoes grown in warm, moist environments. The pathogens can survive in or on seeds, plant debris, and specific weeds. Xanthomonas has a limited survival period of days to weeks in the soil. Secondary infection can occur through rain or overhead irrigation. It enters the plant tissues through leaf pores and wounds. Optimal temperatures range from 25 to 30°C for the bacterial spot. Once the crop is infected, the disease is very difficult to control and can lead to total crop losses. Bacterial speck outbreaks are relatively infrequent and are favored by prolonged leaf moisture and cool temperatures.",
+    "organic_control": "Bacterial Spot is very difficult to control and also expensive to treat. If the disease occurs early in the season, consider destroying the entire crop. Copper-containing bactericides provide a protective cover on foliage and fruit for both bacteria. Bacterial viruses (bacteriophages) that specifically kill the bacteria are available for the bacterial spot. Submerging seeds for one minute in sodium hypochlorite or in hot water (50°C) for 25 minutes can reduce the incidence of both diseases",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments, if available. Copper-containing bactericides can be used as a protectant and give partial disease control. Application at first sign of disease and then at 10 to 14-day intervals when warm (spot) / cold (speck), moist conditions prevail. As the development of resistance to copper is frequent, a combination of copper-based bactericide with mancozeb is also recommended.",
+    "measures": [
+      "Plant disease-free seeds if possible from a certified source.",
+      "Use resistant varieties if available locally. ",
+      "Inspect field regularly, particularly during overcast weather.",
+      "Avoid injuring transplants during handling or planting.",
+      "Ensure sufficient space between plants and use stakes to keep them upright.",
+      "Remove and burn any seedling or plant part with leaf spots.",
+      "Remove weeds in and around the field.",
+      "Mulch the soil to avoid soil-to-plant contamination.",
+      "Clean tools and equipment.",
+      "Avoid overhead irrigation and working in fields when foliage is wet.",
+      "Plough deep plant debris after harvest.",
+      "Alternatively, remove plant debris and leave the soil idle for some weeks or a month (solarization).",
+      "Plan a 2-3 year crop rotation with a non-susceptible crop."
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "BLUE_COPPER",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678982958/Plant%20Disease/BLUE_COPPER_ivut3e.jpg"
+      },
+      {
+        "id": 1,
+        "Name": "Copper Fugicide",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678986863/Plant%20Disease/Copper_Fugicide_tfa3dq.jpg"
+      },
+      {
+        "id": 3,
+        "Name": "Alcoat",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678986996/Plant%20Disease/Alcoat_olfddh.jpg"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with bacterial spot will have visible symptoms, such as small, water-soaked spots on the surface of the leaf."
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "These spots may enlarge and turn brown or black as the disease progresses, and the leaves may become yellow or wilted"
+      },
+      {
+        "id": 3,
+        "h": "a healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": " Bacterial spot can also affect the fruit, causing raised, scabby lesions that may crack or leak."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Tomato Late blight",
+    "symptoms": "Brownish-green spots appear on the leaf margins and leaf tops. Later, large areas of the leaves turn brown completely. During wet weather, lesions on the lower side of the leaves may be covered with a gray to white moldy growth, making it easier to distinguish healthy from dead leaf tissue. As the disease progresses, the foliage runs brown, curls and dries. In some cases, the sharply delimited brown spots and the white covering also appear on the stems, branches, and petioles. Greyish-green to dirty-brown and wrinkled stains appear on the fruits. At these spots, the fruit flesh is hardened.",
+    "causes": "The risk of infection is highest in midsummer. The fungus enters the plant via wounds and rips in the skin. Temperature and moisture are the most important environmental factors affecting the development of the disease. Late blight fungi grow best in high relative humidities (around 90%) and in temperature ranges of 18 to 26°C. Warm and dry summer weather can bring the spread of the disease to a halt.",
+    "organic_control": "At this point, there is no biological control of known efficacy against late blight. To avoid spreading, remove and destroy plants around the infected spot immediately and do not compost infected plant material.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments if available. Use fungicide sprays based on mandipropamid, chlorothalonil, fluazinam, mancozeb to combat late blight. Fungicides are generally needed only if the disease appears during a time of year when rain is likely or overhead irrigation is practiced.",
+    "measures": [
+      "Purchase healthy seeds from reliable retailers.",
+      "Plant more resilient varieties.",
+      "Tomatoes and potatoes should not be cultivated next to each other.",
+      "Try to keep plants dry through good drainage and ventilation of your cultures.",
+      "Install a simple transparent rain shelter with the help of a tarpaulin and wooden stakes.",
+      "Use plant fortifier for general strengthening of the plants.",
+      "Crop rotation of two to three years with non-host crops is recommended.",
+      "Silicate-containing fertilizers may increase the resistance to the fungus, especially in the seedling stage.",
+      "Avoid irrigation late in the day and irrigate plants at ground level.",
+      "tDisinfect field equipment and tools."
+    ],
+
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "MARLETT_M-45",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970109/Plant%20Disease/Cymagan_drxdbk.jpg"
+      },
+      {
+        "id": "1",
+        "Name": "Mount-45",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678982840/Plant%20Disease/Mount-45_mkhcyx.jpg"
+      },
+      {
+        "id": 1,
+        "Name": "Cymagan",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970109/Plant%20Disease/Cymagan_drxdbk.jpg"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with late blight will have visible symptoms such as irregularly shaped, water-soaked lesions that appear on the leaves, stems, and fruit"
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The lesions may be initially pale green, but they will quickly enlarge and turn brown or black, causing the affected tissue to become dry and papery."
+      },
+      {
+        "id": 3,
+        "h": "A healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "Late blight can cause the plant to wilt, and the fruit may develop dark, sunken spots."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tomato Early blight",
+    "symptoms": "Symptoms of early blight occur on older foliage, stem, and fruits. Gray to brown spots appear on leaves and gradually grow in a concentric manner around a clear center - the characteristic “bullseye” formation. These lesions are surrounded by a bright yellow halo. As the disease progresses, entire leaves may turn chlorotic and shed, leading to significant defoliation. When leaves die and fall, fruits become more vulnerable to sun scald. The same type of spots with a clear center appears on stems and fruits. The fruits begin to rot and may eventually fall off.",
+    "causes": "Symptoms are caused by Alternaria solani, a fungus that overwinters on infected crop debris in soil or on alternative hosts. Purchased seeds or seedlings may also be already contaminated. Lower leaves often get infected when in contact with contaminated soil. Warm temperatures (24-29°C) and high humidity (90%) favor development of the disease. A long wet period (or alternating wet/dry weather) enhances the production of spores, which may be spread via wind, splashing rain or overhead irrigation. Tubers harvested green or in wet conditions are particularly susceptible to an infection. It often strikes after a period of heavy rainfall and is particularly destructive in tropical and subtropical areas.",
+    "organic_control": "Application of products based on Bacillus subtilis or copper-based fungicides registered as organic can treat this disease.",
+    "chemical_control": "Always consider an integrated approach with preventive measures and biological treatments if available. There are numerous fungicides on the market for controlling early blight. Fungicides based on or combinations of azoxystrobin, pyraclostrobin, difenoconazole, boscalid, chlorothalonil, fenamidone, maneb, mancozeb, trifloxystrobin, and ziram can be used. Rotation of different chemical compounds is recommended. Apply treatments in a timely manner, taking into account weather conditions. Check carefully the preharvest interval at which you can harvest safely after the application of these products.",
+    "measures": [
+      "Use certified pathogen-free seeds or transplants.",
+      " Look for varieties that are resistant to the disease.",
+      "  Plant or transplant on raised beds to improve drainage.",
+      " Orient rows in the direction of main winds and avoid shaded areas.",
+      " Place plants to allow the canopy to dry quickly after rainfall or irrigation.",
+      " Lay mulch on the soil to keep plants from touching the soil.",
+      " Monitor fields for signs of the disease, particularly during wet weather.",
+      " Remove bottom leaves that are too close to the soil.",
+      " Remove leaves displaying symptoms and destroy them.",
+      " Use a drip irrigation system to minimize leaf wetness.",
+      " Water plants in the morning so plants dry during the day.",
+      "Control susceptible weeds in and around the field.",
+      " Avoid working in fields when plants are wet.",
+      "After harvest, remove plant debris and burn them (do not compost).",
+      " Alternatively, plow debris deep in the soil (more than 45 cm).",
+      "Plan a 2- or 3-year crop rotation with non-susceptible crops.",
+      "Store tubers at cool temperatures and in well-aerated sites."
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "ZINTHANE",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970113/Plant%20Disease/ZINTHANE_hdo7a1.jpg"
+      },
+      {
+        "id": 1,
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970112/Plant%20Disease/Superhit_qnpmci.jpg",
+        "Name": "Superhit"
+      },
+      {
+        "id": "2",
+        "Name": "Nativo",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678984105/Plant%20Disease/Nativo.jpg"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with early blight will have visible symptoms such as small, dark brown spots on the lower leaves of the plant"
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The spots may be circular or irregularly shaped and may have a target-like appearance with concentric rings"
+      },
+      {
+        "id": 3,
+        "h": "A healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "As the disease progresses, the spots may enlarge, and the leaves may yellow, wilt, and die. "
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tomato Leaf Mold",
+    "symptoms": "Symptoms commonly occur on both sides of the foliage and sometimes on fruit. Older leaves are infected first and then the disease slowly moves up towards young leaves. On the upper leaf surface, small, diffuse, pale green or yellowish spots with indefinite margins appear. On the underside, olive green to grayish purple and velvety patches develop below the leaf spots. These are composed of spore-producing structures and spore masses (conidia). Over time, as the spots enlarge, the color of the infected leaf changes from yellowish (chlorosis) to brown (necrosis) and the leaf begins to curl and dry. The leaves will drop prematurely, leading to defoliation in severe cases. Occasionally, this pathogen causes disease on the blossoms or fruits with various symptoms. The blossoms may turn black and will be killed before fruit set. Green and ripe fruits will develop smooth black irregular area on the stem end. As the disease progresses, the infected area becomes sunken, dry and leathery.",
+    "causes": "The symptoms are caused by the fungus Mycovellosiella fulva, whose spores can survive without a host for 6 months to a year at room temperature (non-obligate). Prolonged leaf moisture and humidities above 85% favor the germination of spores. The temperature must be between 4° to 34 °C for spores to germinate, with an optimum temperature at 24-26°C. Dry conditions and the absence of free water on leaves impair germination. The symptoms usually start to appear 10 days after inoculation with the development of spots on both sides of the leaf blade. On the underside, a large number of spore-producing structures are formed and these spores are easily spread from plant to plant by the wind and water splashing, but also on tools, clothing of workers and insects. The pathogen usually infects the leaves by penetrating through stomata in a high humidity level",
+    "organic_control": "Seed treatment with hot water (25 minutes at 122 °F or 50 °C) is recommended to avoid the pathogen on seeds. The fungi Acremonium strictum, Dicyma pulvinata, Trichoderma harzianum or T. viride and Trichothecium roseum are antagonistic to M. fulva and could be used to reduce its spread. In greenhouse trials the growth of M. fulva on tomatoes was inhibited by A. strictum, Trichoderma viride strain 3 and T. roseum by 53, 66 and 84% respectively. In small arms, apple-cider, garlic or milk sprays and vinegar mix can be used to treat the mold.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments if available. Applications should be made prior to infection when environmental conditions are optimal for the development of the disease. Recommended compounds in field use are chlorothalonil, maneb, mancozeb and copper formulations. For greenhouses, difenoconazole, mandipropamid, cymoxanil, famoxadone and cyprodinil are recommended.",
+    "measures": [
+      "Use certified, disease-free seeds, plant resistant or resilient varieties if available in your area.",
+      " Plant early to reduce the disease severity.",
+      "Adjust row and plant spacing to enhance air circulation and reduce humidity in the canopy.",
+      " Monitor for disease and rogue infected plants as soon as detected.",
+      " Avoid excessive nitrogen fertilization.",
+      " Promote air circulation inside the greenhouse.",
+      "Keep the relative humidity below 85% and night temperatures higher than outside temperatures (suitable on greenhouse).",
+      "Use drip irrigation and avoid watering foliage.",
+      " Use a stake, strings, or prune the plant to keep it upstanding and increase airflow in and around it.",
+      " Remove and destroy (burn) all plants debris after the harvest.",
+      "Sanitize the greenhouse between crops and maintain extensive hygiene standards with tools and among workers."
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "Indofil Z-78",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678984323/Plant%20Disease/Indofil%20Z-8.webp"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with leaf mold will have visible symptoms such as fuzzy, grayish-white mold growth on the upper surface of the leaves. "
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The mold may also appear on the stems and fruit, and it can cause the leaves to yellow and drop prematurely."
+      },
+      {
+        "id": 3,
+        "h": "A healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "Leaf mold can spread rapidly in humid conditions, and it can cause significant damage to the plant."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tomato Sectorial leaf spot",
+    "symptoms": "Symptoms spread upwards from oldest to youngest growth. Small, water-soaked grey circular spots with dark-brown margins appear on the undersides of older leaves. At later stages of the disease, the spots enlarge and coalesce, and black dots appear in their centers. The same pattern may also be observed on stems and blossoms, but rarely on fruit. Heavily infected leaves will turn slightly yellow, wither, and fall off. The defoliation leads to sun scalding of fruit.",
+    "causes": "Septoria leaf spot occurs worldwide and is caused by the fungus Septoria lycopersici. The fungus infects only plants of the family of potato and tomato. The temperature range for the development of the fungus varies between 15° and 27°C, with optimal growth at 25°C. Spores might be spread by overhead water, splashing rain, hands and clothing of pickers, insects such as beetles, and cultivation equipment. It overwinters on solanaceous weeds and for short periods in soils or soil debris.",
+    "organic_control": "Copper-based fungicides, such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate might help control the pathogen. Apply at 7 to 10 day intervals throughout the late season. Follow harvest restrictions listed on the pesticide label.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments if available. Fungicides containing maneb, mancozeb, chlorothalonil effectively control Septoria leaf spot. Apply at 7 to 10 day intervals throughout the season, mainly during flowering and fruit setting. Follow harvest restrictions listed on the pesticide label.",
+    "measures": [
+      "Acquire certified disease-free seeds.",
+      "If available, use resistant varieties.",
+      "Apply organic or plastic mulch to avoid transmission from soil.",
+      "Remove infected leaves and destroy them.",
+      "Improve air circulation and keep plants off the ground with stakes.",
+      "Make sure that production areas are free of susceptible weeds.",
+      "Do not use sprinklers or other overhead irrigation.",
+      "Keep your equipment and tools clean after field work.",
+      "Dig plant debris deep in the soil after harvest.",
+      "Alternatively, remove and destroy them.",
+      "Plan a crop rotation for several years with non-susceptible plants"
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "BILCOP-50",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970109/Plant%20Disease/BILCOP-50_s0nrm3.jpg"
+      },
+      {
+        "id": 1,
+        "Name": "COPPER-S",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678970109/Plant%20Disease/COPPER-S_lotkes.jpg"
+      },
+      {
+        "id": 2,
+        "Name": "BLUE_COPPER",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678982958/Plant%20Disease/BLUE_COPPER_ivut3e.jpg"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "n contrast, a tomato leaf with septoria leaf spot will have visible symptoms such as small, circular spots on the lower leaves of the plant. "
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The spots may be brown or grayish in color, and they may have a light-colored center with dark borders"
+      },
+      {
+        "id": 3,
+        "h": "A healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "As the disease progresses, the spots may enlarge, and the leaves may yellow, wilt, and die"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": "Infection at seedling stage results in severe stunting of young leaves and shoots, leading to a somewhat bushy growth of the plant. In older plants, the infection results in excessive branching, thicker and wrinkled leaves, and interveinal chlorosis clearly visible on the leaf blade. At later stages of the disease, the plants take a leathery texture and their chlorotic margins are rolled upwards and inwards. If the infection takes place before the flowering stage, the number of fruits is considerably reduced, even though there are no noticeable symptoms on their surface.",
+    "causes": "TYLCV is not seed-borne and is not transmitted mechanically. It is spread by whiteflies of the Bemisia tabaci species. These whiteflies feed on the lower leaf surface of a number of plants and are attracted by young tender plants. The whole infection cycle can take place in about 24 hours and is favored by dry weather with high temperatures.",
+    "organic_control": "There is no treatment against TYLCV. Control the whitefly population to avoid the infection with the virus.",
+    "chemical_control": "Once infected with the virus, there are no treatments against the infection. Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies. However, their extensive use might promote resistance development in whitefly populations.",
+    "measures": [
+      "Use resistant or tolerant varieties.",
+      "Plant early to avoid peak populations of the whitefly.",
+      "Intercrop with rows of non-susceptible plants such as squash and cucumber.",
+      "Use nets to cover seedbeds and prevent whiteflies from reaching plants.",
+      "Practice crop rotation with non-susceptible plants.",
+      "Avoid planting alternative host plants close to crops.",
+      "Mulch the seedbed or the field to break the life cycle of the whitefly.",
+      "Use sticky yellow plastic traps to mass-catch the insect.",
+      "Monitor the field, handpick diseased plants and bury them away from the field.",
+      "Find and eradicate weeds in and around the field.",
+      "Plow deep all plant debris after harvest or burn them."
+    ],
+    "Medicine": [],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf infected with tomato yellow leaf curl virus (TYLCV) will have visible symptoms such as upward curling of the leaf margin, yellowing of the leaf veins, and a general yellowing of the leaf tissue"
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "These spots may enlarge and turn brown or black as the disease progresses, and the leaves may become yellow or wilted"
+      },
+      {
+        "id": 3,
+        "h": "a healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "The leaves may also be smaller and thicker than normal, and the plant may have stunted growth"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tomato Spider mites Two-spotted spider mite",
+    "symptoms": "The spider mites feeding causes white to yellow speckles to form on the upper surface of the leaves. As infestation becomes more severe, leaves appear bronzed or silvery first and then become brittle, rip open between the leaf veins, and finally fall off. Spider mite eggs can be found on undersides of leaves. The spider mite itself is located there, nesting in a cocoon resembling webbing. Infected plants will be covered by a web spun by the spider mites. Shoot tips can become bald and as a result, side shoots start to grow. In cases of heavy damage, the quantity, as well as quality of fruits, is reduced.",
+    "causes": "Damage is caused by spider mites from the genus Tetranychus, mainly T. urticae and T. cinnabarinus. The adult female is 0.6 mm long, pale green with two darker patches on its oval body, and long hairs on the back. Overwintering females are reddish. In spring, the females lay globular and translucent eggs on the underside of the leaves. The nymphs are pale green with darker markings on the dorsal side. The mites protect themselves with a cocoon on the underside of the leaf blades. The spider mite thrives in dry and hot climates and will produce up to 7 generations in one year in these conditions. There is a wide range of alternative hosts, including weeds.",
+    "organic_control": "In case of minor infestation, simply wash off the mites and remove the affected leaves. Use preparations based on rapeseed, basil, soybean and neem oils to spray leaves thoroughly and reduce populations of T. urticae. Also try garlic tea, nettle slurry or insecticidal soap solutions to control the population. In fields, employ host-specific biological control with predatory mites (for example Phytoseiulus persimilis) or the biological pesticide Bacillus thuringiensis. A second spray treatment application 2 to 3 days after the initial treatment is necessary.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments if available. Spider mites are very difficult to control with acaricides because most populations develop resistance to different chemicals after a few years of use. Choose chemical control agents carefully so that they do not disrupt the population of predators. Fungicides based on wettable sulfur (3 g/l), spiromesifen (1 ml/l), dicofol (5 ml/l) or abamectin can be used for example (dilution in water). A second spray treatment application 2 to 3 days after the initial treatment is necessary.",
+    "measures": [
+      "Plant resistant varieties if available.",
+      "Monitor your field regularly and check the underside of leaves.",
+      "Alternatively, shake a few insects off the leaf surface onto a white sheet of paper.",
+      "Remove affected leaves or plants.",
+      "Remove nettles and other weeds from fields.",
+      "Apply water to pathways and other dusty areas at regular intervals to avoid dusty conditions in the field.",
+      "Water your crop regularly as stressed trees and plants are less tolerant to spider mite damage.",
+      "Control the use of insecticides to allow beneficial insects to thrive."
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "MACERA",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678982858/Plant%20Disease/MACERA_iwjnts.jpg"
+      },
+      {
+        "id": 1,
+        "Name": "Missile",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678985031/Plant%20Disease/Missile_gspypy.jpg"
+      },
+      {
+        "id": 2,
+        "Name": "Amnon",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678985096/Plant%20Disease/Amnon_jcxryy.jpg"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with spider mite infestation will have visible symptoms such as tiny, yellow or white spots on the upper surface of the leaves."
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "As the infestation progresses, the spots may merge, and the leaves may become yellow or bronze in color"
+      },
+      {
+        "id": 3,
+        "h": "Ahealthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "Spider mites are very small and difficult to see with the naked eye, but they can be observed using a magnifying glass or microscope."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Tomato Target Spot",
+    "symptoms": "Target spot is mostly a foliar disease. Leaves show round to irregular reddish-brown spots surrounded by a yellowish green halo. The growth of these spots often results in a zonate pattern of light- or dark brown rings, hence the common name target spot. Stems and stalks can also be affected and usually develop dark brown specks or elongated lesions. Small, circular black spots later appear on pods. Severe infections may cause leaves to drop prematurely.",
+    "causes": "The fungus Corynespora cassiicola overwinters on crop debris and in the soil. Favorable conditions for the infection are high humidity (>80%) and free moisture on leaves. Dry weather will suppress the development of the disease. The disease is potentially serious on late-maturing varieties or on susceptible varieties in seasons of high rainfall.",
+    "organic_control": "No alternative treatment is available against target spot disease.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatment if available. The use of fungicides is rarely economically viable.Products containing mixtures of pyraclostrobin, epoxiconazole and fluxapyroxad or bixafen, prothioconazole and trifloxystrobin might help to control the fungus.",
+    "measures": [
+      "Use resistant or tolerant varieties.",
+      "Plant early to avoid peak populations of the whitefly.",
+      "Intercrop with rows of non-susceptible plants such as squash and cucumber.",
+      "Use nets to cover seedbeds and prevent whiteflies from reaching plants.",
+      "Practice crop rotation with non-susceptible plants.",
+      "Avoid planting alternative host plants close to crops.",
+      "Mulch the seedbed or the field to break the life cycle of the whitefly.",
+      "Use sticky yellow plastic traps to mass-catch the insect.",
+      "Monitor the field, handpick diseased plants and bury them away from the field.",
+      "Find and eradicate weeds in and around the field.",
+      "Plow deep all plant debris after harvest or burn them."
+    ],
+    "Medicine": [
+      {
+        "id": 0,
+        "Name": "Amistar",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678985254/Plant%20Disease/Amistar_q24uet.jpg"
+      },
+      {
+        "id": 1,
+        "Name": "Macoban_M-45",
+        "Link": "https://res.cloudinary.com/dkxchvnsd/image/upload/v1678985349/Plant%20Disease/Macoban_M-45_qu681j.webp"
+      }
+    ],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf with target spot will have visible symptoms that resemble concentric rings, like a bull's eye, on the surface of the leaf."
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The rings may be brown or black and may have a yellow halo around them. As the disease progresses, the spots may enlarge and merge together, causing the leaf to become dry and brittle."
+      },
+      {
+        "id": 3,
+        "h": "Additionally, A healthy tomato plant generally has strong stems, well-formed fruit, and overall robust growth.",
+        "d": "Target spot can also affect the fruit, causing it to become sunken and discolored."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tomato Mosaic virus",
+    "symptoms": "All plant parts can be affected during any growth stage. The symptoms depend on environmental conditions (light, day length, temperature). Infected leaves show a green and yellow mottling or a mosaic pattern. Younger leaves are slightly distorted. Older leaves show raised dark green areas. In some cases, dark necrotic streaks appear in stems and petioles. Plants are stunted to varying degrees and fruit set may be severely reduced. Unevenly ripening fruits develop brown spots on their surface, and internal, browning blotches in the fruit wall. Crop yield might be reduced significantly.",
+    "causes": "The virus can persist in plant or root debris in dry soil for periods of over 2 years (1 month in most soils). Plants get contaminated through minor wounds in roots. The virus can spread via infested seeds, seedlings, weeds, and contaminated plant parts. Wind, rain, grasshoppers, small mammals, and birds can also transport the virus between fields. Bad cultural practices during plant handling favor virus transmission, too. Day length, temperature, and light intensity, as well as plant variety and age, determine the severity of the infection.",
+    "organic_control": "Dry heating seeds at 70°C for 4 days or at 82-85°C for 24 hours will help to rid them of the virus. Alternatively, seeds can be soaked for 15 min in a solution of 100 g/l of trisodium phosphate, rinsed thoroughly with water and dried.",
+    "chemical_control": "Always consider an integrated approach with preventive measures together with biological treatments if available. There is no effective chemical treatment against Tomato Mosaic Virus.",
+    "measures": [
+      "Use seeds from healthy plants or from certified sources.",
+      "Use resistant or tolerant varieties.",
+      "Use steam-pasteurization to rid your seedbed soils of the virus.",
+      "Do not plant in fields previously infected by the virus.",
+      "Optimize the handling of the plants by washing hands, wearing gloves and disinfecting your tools and equipment.",
+      "Do not consume tobacco products (such as cigarettes) around tomato plants.",
+      "Monitor seedbeds and fields, remove diseased plants and burn them.",
+      "Find and eradicate weeds in and around the field.",
+      "Plow and burn plant debris after harvest.",
+      "Avoid planting alternative host plants close to tomatoes.",
+      "Implement crop rotation with non-host crops for at least two years."
+    ],
+    "Medicine": [],
+    "diff": [
+      {
+        "id": 1,
+        "h": "A healthy tomato leaf is typically green, uniform in color, and free of any discoloration, spots, or lesions.",
+        "d": "In contrast, a tomato leaf infected with tomato mosaic virus will have visible symptoms such as mottling, yellowing, or distortion of the leaf."
+      },
+      {
+        "id": 2,
+        "h": "The leaf is usually smooth and turgid, with no signs of wilting or dehydration.",
+        "d": "The leaf may have a mosaic-like pattern, with light and dark green patches, and the veins may appear thickened or distorted. "
+      },
+      {
+        "id": 3,
+        "h": "a healthy tomato plant typically has strong stems, well-formed fruit, and overall robust growth.",
+        "d": " The plant may also have stunted growth, and the fruit may be smaller and misshapen. "
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+.dropzone-div {
+  text-align: center;
+  padding: 20px;
+  /* border: 3px purple dashed; */
+  width: 60%;
+  margin: auto;
+}
+.icon-container {
+  z-index: 1;
+  margin-top: -200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.arrow {
+  margin-top: 10px;
+}
+.Main-Div Button {
+  margin-top: 10px;
+  background-color: #2f45d6;
+  border: none;
+  height: 30px;
+  border-radius: 15px;
+  color: white;
+  max-width: 600px;
+}
+.Main-Div Button:hover {
+  background-color: #24a0ed;
+}
+
+.details {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 30px 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+.details .big-img {
+  max-width: 500px;
+  min-width: 290px;
+  overflow: hidden;
+  margin: 25px;
+}
+.big-img img {
+  width: 100%;
+  height: 100%;
+  max-height: 400px;
+  display: block;
+  object-fit: cover;
+}
+
+.details .box {
+  max-width: 500px;
+  min-width: 290px;
+  margin: 25px;
+}
+.box .row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.box .row h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.box .row span {
+  color: crimson;
+}
+.products {
+  margin-left: 15%;
+  display: flex;
+  flex-direction: row;
+}
+.products .medicine {
+  margin-left: 30px;
+}
+.products .medicine img {
+  height: 150px;
+}
+.products .medicine p {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.box .colors button {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #333;
+  outline: none;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.box p {
+  line-height: 1.5;
+  margin: 15px 0;
+}
+.thumb {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.info {
+  max-width: 900px;
+  min-width: 290px;
+  margin: 25px;
+}
+.info .row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.info .row h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+.tb_main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+  
+.tb_main table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+}
+  
+.tb_main th {
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+  
+.tb_main td {
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .details.box {
+    max-width: 500px;
+    min-width: 290px;
+    margin: 25px;
+  }
+  .details.info {
+    max-width: 500px;
+    min-width: 290px;
+    margin: 25px;
+  }
+  .products {
+    margin-left: 5px;
+  }
+  .products .medicine {
+    margin-left: 0;
+    margin-right: 30px;
+  }
+  .products .medicine img {
+    height: 80px;
+  }
+  .products .medicine p {
+    font-size: 12px;
+  }
+}
+
